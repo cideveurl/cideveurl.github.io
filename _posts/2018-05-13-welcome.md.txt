@@ -1,0 +1,8 @@
+---
+title: Bienvenue sur mon blog
+---
+
+# Bienvenue sur mon blog
+
+Ce blog contiendra des trucs et astuces autour de l'électronique et des
+firmwares.

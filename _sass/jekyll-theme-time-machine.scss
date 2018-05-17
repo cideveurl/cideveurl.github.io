@@ -59,7 +59,7 @@ p.tagline {
 
 .download-bar {
   background: #800000;
-  border: 5px solid #444;
+  border: 1px solid #444;
   padding: 10px;
   margin: 0 -35px 20px;
   position: relative;
@@ -265,9 +265,9 @@ footer {
 }
 
 footer .owner {
-  background: #222;
-  border: 5px solid #444;
-  padding: 5px 15px;
+  background: #800000;
+  border: 1px solid #444;
+  padding: 1px 15px;
   margin: -67px -10px 35px;
   color: #d6d6d6;
 }
@@ -330,6 +330,7 @@ footer .owner p a {
 
 .markdown-body h1 {
   font-size: 28px;
+  color: #000080;
 }
 
 .markdown-body h2 {

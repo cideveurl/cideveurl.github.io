@@ -24,7 +24,7 @@ La société Concept and Innovative DEVelopment (CIDEV) a pour objectif de mener
 	Analyse des odeurs, 
 	Analyse de bruit,
 
-afin de développer ses propres produits innovants en relation avec l'analyse des odeurs et/ou du bruit et damener son savoir faire auprès des entreprises développant des produits intégrant les analyses d'odeur ou de bruit. La société CIDEV a aussi pour vocation damener des briques brevetées auprès dautres sociétés et d'accompagner ces sociétés dans leur propre projet.
+afin de développer ses propres produits innovants en relation avec l'analyse des odeurs et/ou du bruit et d'amener son savoir faire auprès des entreprises développant des produits intégrant les analyses d'odeur ou de bruit. La société CIDEV a aussi pour vocation damener des briques brevetées auprès d'autres sociétés et d'accompagner ces sociétés dans leur propre projet.
 
 La société CIDEV a une forte compétence en développement de cartes électroniques numériques et de logiciel embarqué, en architecture de système électronique et en traitement de signaux.
 

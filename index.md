@@ -17,5 +17,5 @@ layout: default
 
 ## Welcome to Concep and Innovative DEVelopment 
 
-CIDEV Est une jeune entreprise toulousains spécialisée dans le développment de système élétronique. 
+CIDEV Est une jeune entreprise toulousains spÃ©cialisÃ©e dans le dÃ©veloppment de systÃ¨me Ã©lÃ©tronique. 
 

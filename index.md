@@ -15,7 +15,7 @@ layout: default
 </ul>
 
 
-## Welcome to Concep and Innovative DEVelopment 
+## Welcome to Concept and Innovative DEVelopment 
 
 CIDEV est une entreprise toulousaine spécialisée dans le développement de système électronique. 
 
